@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python projects 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: My first project https://cryptorecoveryservices.help/
+- ⚡ Fun fact: My first project was building a crypto recover services site https://cryptorecoveryservices.help/
 
 <!---
 Wkennybrown/Wkennybrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
